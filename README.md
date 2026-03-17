@@ -10,7 +10,7 @@ Este repositorio contiene el material suplementario de un artículo científico 
 
 ### 🔍 Visualizador
 
-👉 **[Abrir visualizador interactivo](https://kg-research-demo.github.io)**
+👉 **[Abrir visualizador interactivo](https://kg-research-demo.github.io/kg-viewer/)**
 
 El visualizador permite explorar las relaciones entre entidades legislativas: proposiciones de ley, mociones, temáticas y resultados de votación, entre otras.
 
@@ -52,7 +52,7 @@ This repository contains the supplementary material for a scientific paper submi
 
 ### 🔍 Open the visualizer
 
-👉 **[Open interactive visualizer](https://kg-research-demo.github.io)**
+👉 **[Open interactive visualizer](https://kg-research-demo.github.io/kg-viewer/)**
 
 The visualizer allows exploration of relationships between legislative entities: bills, motions, topics, and voting outcomes, among others.
 
